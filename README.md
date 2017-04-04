@@ -1,4 +1,8 @@
-# React Starter Kit
+Using the Turing-created React Starter Kit, this group project built a digital rolodex based off [these specs](https://github.com/turingschool/front-end-curriculum/blob/gh-pages/projects/fire-bae.md#a-nimble-network).
+
+<hr> </hr>
+
+### React Starter Kit
 
 To install the dependencies:
 
@@ -22,7 +26,6 @@ To build the static files:
 ```js
 npm run build
 ```
-
 
 To run tests in Node:
 
